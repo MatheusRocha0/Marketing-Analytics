@@ -11,6 +11,8 @@ In this project, I analyze a dataset about Marketing campaigns to have insights 
 
 • Data Cleaning
 
+• Feature Engineering
+
 • Exploratory Data Analysis
 
 • Interpreting Data
