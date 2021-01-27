@@ -3,6 +3,8 @@
 
 In this project, I analyze a dataset about Marketing campaigns to have insights and make data-driven recommendations to a CMO from a fictional company.
 
+Go to documentation: https://bit.ly/3opxvLa
+
 ## Summary
 
 • Problem Statement
